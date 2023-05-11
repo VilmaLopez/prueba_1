@@ -1,0 +1,30 @@
+
+body{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	}
+.card-uno{
+	width: 200px;
+}
+footer{
+	background-color:#383737;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+	}
+.col-6{
+	background-color: #FFFFFF;
+}
+.col{
+	background-color: #f3f3f3;
+}
+.col-sm{
+	background-color:#f3f3f3;
+	width: 20px;
+	margin-bottom: 30px;
+}
+h1{
+	color: #3c3838;
+}
+h6{
+	color:#888585;
+}
